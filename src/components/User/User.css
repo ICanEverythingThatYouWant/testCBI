@@ -1,0 +1,21 @@
+.user-item__icon{
+    width: 32px;
+    height: 32px;
+}
+
+.user-hide__icon{
+    width: 9px;
+    height: 14px;
+    margin-left: 10px;
+}
+
+.user{
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.user p {
+    margin-left: 10px;
+}

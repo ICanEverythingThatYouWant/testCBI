@@ -1,0 +1,8 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    border: 1px solid black;
+    border-top: none;
+    background-image: url("../img/zDOmCN.jpg");
+}

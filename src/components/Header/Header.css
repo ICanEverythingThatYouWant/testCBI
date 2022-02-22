@@ -1,0 +1,14 @@
+.header{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    background: linear-gradient(80deg, rgb(18, 36, 90) 0%, rgb(81, 185, 188), rgb(79, 79, 141));
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 10px;
+    color: #0e0101;
+}

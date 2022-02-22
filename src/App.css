@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    font-family: system-ui;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.App{
+    position: relative;
+    max-width: 1280px;
+    background: #ffffff;
+    margin: 0 auto;
+}
+
